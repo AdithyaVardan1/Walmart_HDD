@@ -32,8 +32,6 @@ This project was inspired by and built upon the concepts, datasets, and code fro
 
 - **Scientific Paper**: ["Interpretable predictive maintenance for hard drives"](https://www.sciencedirect.com/science/article/pii/S2666827021000219) - This paper discusses the methodologies, algorithms, and impacts of predictive maintenance on hard drive failures, providing a foundational theory for our project's approach.
 
-- **Other GitHub Codes**: We have also utilized and been inspired by various GitHub repositories related to machine learning and predictive maintenance. Specific repositories are acknowledged through comments in the code where applicable.
-
 Please note that while we have drawn upon these resources for inspiration and guidance, the implementations and any modifications to the algorithms or code are our own, tailored to the specific requirements and objectives of our project.
 
 
